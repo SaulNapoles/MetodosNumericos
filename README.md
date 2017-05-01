@@ -1,2 +1,2 @@
 # MetodosNumericos
-Ejercicios de métodos númericos hechos en java.
+Ejercicios de métodos numéricos hechos en java.
