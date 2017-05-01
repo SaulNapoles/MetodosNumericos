@@ -1,2 +1,2 @@
 # MetodosNumericos
-# MetodosNumericos
+Ejercicios de métodos numericos.
